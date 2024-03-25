@@ -1,4 +1,4 @@
-# Prática de Banco de Dados
+# Prática de Banco de Dados - Tarefa 01
 Repositório para aprendizado da disciplina de Laboratório de Banco de Dados
 
 > [!Important]
@@ -12,3 +12,24 @@ Repositório para aprendizado da disciplina de Laboratório de Banco de Dados
 4. (2,0) - Para cada Item, use o "Try it Yourself" ou "Tente você mesmo" copie e cole o código do teste no seu repositório e identifique-o.
 5. (2,0) - Ao final de todos os testes, envie um convite de participação do seu repositório para o professor para que ele veja seus códigos.
 6. (2,0) - Em cada item de aprendizado, utilize o markdown para "Important" para identificar o tipo de teste.
+
+
+
+
+# Prática de Banco de dados - Tarefa 02
+
+> [!important]
+> Atividade de prática com mysql em ambiente Linux;
+
+Para essa atividade foram realizados primeiriamente as seguintes etapas antes de iniciarmos a prática:
+1. Instalação do mysql no Ubuntu. Abrimos o terminal com `ctrl+alt+t` e insira o comando abaixo.
+
+    `~$ sudo apt install mysql-server -y`
+3. Após a instalação do mysql no Ubuntu, foi realizado a ativação da ferramenta através do comando:
+
+    `~$ sudo mysql_secure_installation`
+
+     Após o comando acima, será apresentado uma série de opões. Para a primeira basta pressionar "Y", e 2 na segunda opção.
+
+4. Instalado mysql e ativado suas configurações iniciais, basta inserir o comando abaixo para acessar
+
