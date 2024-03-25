@@ -45,7 +45,7 @@ Para essa atividade foram realizados primeiriamente as seguintes etapas antes de
 
 a. Acesse o mysql e digite o comando 
 
-    `show databases;`
+`show databases;`
     
 para verificar quais bancos de dados existem;
 
