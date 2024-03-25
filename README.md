@@ -19,7 +19,7 @@ Repositório para aprendizado da disciplina de Laboratório de Banco de Dados
 # Prática de Banco de dados - Tarefa 02
 
 > [!important]
-> Atividade de prática com mysql em ambiente Linux;
+> Atividade de prática com mysql em ambiente Linux - Primeira Parte;
 
 Para essa atividade foram realizados primeiriamente as seguintes etapas antes de iniciarmos a prática:
 1. Instalação do mysql no Ubuntu. Abrimos o terminal com `ctrl+alt+t` e insira o comando abaixo.
@@ -31,5 +31,42 @@ Para essa atividade foram realizados primeiriamente as seguintes etapas antes de
 
      Após o comando acima, será apresentado uma série de opões. Para a primeira basta pressionar "Y", e 2 na segunda opção.
 
-4. Instalado mysql e ativado suas configurações iniciais, basta inserir o comando abaixo para acessar
+4. Instalado mysql e realizado as configurações iniciais, basta inserir o comando abaixo no terminal para acessar o servidor mysql.
+
+   `~$ sudo mysql`
+
+> Atividade a partir daqui
+> 
+> Observe os itens e realize o que se pede
+
+5 - (hoje - 25 03 2024): Crie um novo repositório PRIVADO chamado "Documentação de Prática de BD" com o arquivo README. 
+
+6 - Documente de forma explicativa todas as etapas que você realizar conforme descrito logo abaixo:
+
+a. Acesse o mysql e digite o comando 
+
+    `show databases;`
+    
+para verificar quais bancos de dados existem;
+
+b.  Acesse o w3schools [através desse link](https://www.w3schools.com/sql/sql_intro.asp) e clique na opção correspondente à atividade a ser feita abaixo:
+
+> Create Database
+
+Crie um novo banco de dados no MySql através do comando `create database`. O banco a ser criado de exemplo fica a seu critério.
+
+> Create table
+
+Crie as tabelas para o banco de dados que foi criado anteriormente através do comando `create table` e insira os valores de cada campo.
+
+**Obs: Crie pelo menos 3 tabelas para o banco de dados que você criou.**
+
+> Insert into
+
+Insira 6 registros para cada tabela criada do seu banco de dados criado através do comando `insert into` e preencha essas tabelas.
+
+### Fim da primeira parte da atividade.
+
+
+        
 
