@@ -1,5 +1,8 @@
 ## Atividade 03 - Cont. Estudo sobre manipulação de banco de dados com SQL
 
+> [!Important]
+> Considere usar o [esse link](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para formatar a sua escrita aqui no github. Seja criativo(a).
+
 1. Acesse seu banco de dados e altere os registros com o comando `update`. Use nosso site de recomendação de estudo W3School.
 
 
