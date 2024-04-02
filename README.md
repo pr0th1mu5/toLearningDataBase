@@ -53,7 +53,7 @@ b.  Acesse o w3schools [através desse link](https://www.w3schools.com/sql/sql_i
 
 > Create Database
 
-Crie um novo banco de dados no MySql através do comando `create database`. O banco a ser criado de exemplo fica a seu critério.
+Crie um novo banco de dados no MySql através do comando `create database;`. O banco a ser criado de exemplo fica a seu critério.
 
 > Create table
 
