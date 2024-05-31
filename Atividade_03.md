@@ -13,4 +13,4 @@
 
 4. Realize uma consulta com `select` em conjunto com o `where`, e utilize a ordenação através do comando `order by`.
 
-5. Documento os passos que vc realizou no seu repositório. 
+5. Documente os passos que vc realizou no seu repositório, e envi-as por e-mail ao professor.
