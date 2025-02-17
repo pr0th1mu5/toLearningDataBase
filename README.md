@@ -10,8 +10,8 @@ Repositório para aprendizado da disciplina de Laboratório de Banco de Dados
 2. (1,0) - Leia e pratique de "SQL Intro" até "SQL Delete"
 3. (2,0) - Crie um novo repositório chamado praticaSQL como sendo do tipo privado no seu gitHub e inclua o arquivo README;
 4. (2,0) - Para cada Item, use o "Try it Yourself" ou "Tente você mesmo" copie e cole o código do teste no seu repositório e identifique-o.
-5. (2,0) - Ao final de todos os testes, envie um convite de participação do seu repositório para o professor para que ele veja seus códigos.
-6. (2,0) - Em cada item de aprendizado, utilize o markdown para "Important" para identificar o tipo de teste.
+5. (0,5) - Ao final de todos os testes, mostre seu repositório ao professor para que ele veja seus códigos.
+6. (0,5) - Em cada item de aprendizado, utilize o markdown para "Important" para identificar o tipo de teste.
 
 
 
