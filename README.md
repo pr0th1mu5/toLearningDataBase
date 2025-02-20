@@ -6,12 +6,12 @@ Repositório para aprendizado da disciplina de Laboratório de Banco de Dados
 > Será explorado a sua capacidade de auto-aprendizagem, busca pela conhecimento e prática de banco de dados com auxílio mínimo do docente.
 > Essa atividade faz parte do plano de trabalho conhecido por PBL (Problem Based Learning).
 
-1. (1,0) - Acesse o endereço da plataforma de aprendizagem de conceitos e prática web w3schools [Aqui](https://www.w3schools.com/sql/sql_intro.asp)
-2. (1,0) - Leia e pratique de "SQL Intro" até "SQL Delete"
-3. (2,0) - Crie um novo repositório chamado praticaSQL como sendo do tipo privado no seu gitHub e inclua o arquivo README;
-4. (2,0) - Para cada Item, use o "Try it Yourself" ou "Tente você mesmo" copie e cole o código do teste no seu repositório e identifique-o.
-5. (0,5) - Ao final de todos os testes, mostre seu repositório ao professor para que ele veja seus códigos.
-6. (0,5) - Em cada item de aprendizado, utilize o markdown para "Important" para identificar o tipo de teste.
+1. - Acesse o endereço da plataforma de aprendizagem de conceitos e prática web w3schools [Aqui](https://www.w3schools.com/sql/sql_intro.asp)
+2. - Leia e pratique de "SQL Intro" até "SQL Delete"
+3. - Crie um novo repositório chamado praticaSQL como sendo do tipo privado no seu gitHub e inclua o arquivo README;
+4. - Para cada Item, use o "Try it Yourself" ou "Tente você mesmo" copie e cole o código do teste no seu repositório e identifique-o.
+5. - Ao final de todos os testes, mostre seu repositório ao professor para que ele veja seus códigos.
+6. - Em cada item de aprendizado, utilize o markdown para "Important" para identificar o tipo de teste.
 
 
 
@@ -39,7 +39,7 @@ Para essa atividade foram realizados primeiriamente as seguintes etapas antes de
 > 
 > Observe os itens e realize o que se pede
 
-5 - (hoje - 25 03 2024): Crie um novo repositório PRIVADO chamado "Documentação de Prática de BD" com o arquivo README. 
+5 - Crie um novo repositório PRIVADO chamado "Documentação de Prática de BD" com o arquivo README. 
 
 6 - Documente de forma explicativa todas as etapas que você realizar conforme descrito logo abaixo:
 
